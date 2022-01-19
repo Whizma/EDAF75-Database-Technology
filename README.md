@@ -18,7 +18,7 @@ Kursmaterial
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">EDAF75: Database Technology – installing and running Jupyter</h1>
+<h1 class="title">Installing and running Jupyter</h1>
 </header>
 <h1 id="using-jupyter-in-edaf75">Using <code class="verbatim">jupyter</code> in EDAF75</h1>
 <p>We'll use <a href="http://jupyter.org/"><code>jupyter</code></a> 
