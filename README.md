@@ -1,4 +1,4 @@
-# EDAF75-Database-Technology
+# EDAF75: Database Technology
 Kursmaterial 
 
 <!DOCTYPE html>
